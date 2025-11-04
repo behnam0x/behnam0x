@@ -63,8 +63,9 @@ I build tools that make Linux systems more secure, efficient, and compliant. My 
 ## 🐍 Contribution Snake Chart
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/behnam0x/behnam0x/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/behnam0x/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
