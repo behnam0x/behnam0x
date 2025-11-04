@@ -73,7 +73,7 @@ I build tools that make Linux systems more secure, efficient, and compliant. My 
 
 - 💬 Open to collaboration on Linux security and automation projects
 - 🧠 Always learning and sharing — contributions welcome!
-- 📍 Based in [Your Location] | 🌍 Working remotely
+- 🌍 Working remotely
 
 ---
 
